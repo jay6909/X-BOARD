@@ -1,0 +1,43 @@
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.navbar{
+   border-bottom: 1px solid #E1E4E8;
+}
+#rectangle{
+    /* Rectangle 7 */
+
+width: 27px;
+height: 9px;
+
+
+background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+border-radius: 4.5px;
+
+}
+
+.news-heading{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    /* letter-spacing: 0.10000000149011612px; */
+    text-align: left;
+    
+}
+.news-heading-section{
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+/* letter-spacing: 0.20000000298023224px; */
+text-align: left;
+
+
+}
+
